@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookWeb</string>
+    <string name="text_witaj">Witaj</string>
+    <string name="button_next">OK, DALEJ!</string>
+    <string name="text_czytaj">1. Czytaj ksiązki</string>
+    <string name="text_zostaw">2. Zostaw komentarz</string>
+    <string name="todo">TODO</string>
+    <string name="label_about">O programie</string>
+    <string name="text_book">Book Master</string>
+    <string name="text_version">Aplikacja do komentowania książek \n\nWersja 1.4</string>
+    <string name="text_autor">Autorzy:\nMikołaj Górczyński</string>
+    <string name="button_nextpage">O programie</string>
+    <string name="item1">BookWeb</string>
+    <string name="item2">Matematyka</string>
+    <string name="item3">Informatyka</string>
+    <string name="item4">Elektronika</string>
+    <string name="item5">Lista książek</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="text_bookFeature1">Tytuł</string>
+    <string name="text_bookFeature2">Autor</string>
+    <string name="text_bookFeature3">Data</string>
+</resources>

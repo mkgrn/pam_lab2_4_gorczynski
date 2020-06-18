@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/button_nextpage"
+        android:onClick="button_goNext"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_share"
+        android:orderInCategory="2"
+        />
+
+    <item
+        android:id="@+id/camera"
+        android:title="Camera"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_camera"
+        android:orderInCategory="1"
+        />
+</menu>
